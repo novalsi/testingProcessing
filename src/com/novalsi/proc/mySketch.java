@@ -9,6 +9,7 @@ import processing.core.*;
 /**
  *
  * @author Nick Smith
+ * @since 22 Oct 2013
  */
 
 public class mySketch extends PApplet
